@@ -1,6 +1,6 @@
 Provisioned infra using Terraform for [Flask Application](https://github.com/jainanuj261/Terraform-python-mysql-db-proj.git) using [Jenkins pipeline](https://github.com/jainanuj261/jenkins-terraform-devops-project.git)
 
-Below are the AWS resources that are provisioned for the flask application.
+Below are the AWS resources that have been provisioned for the Flask application and the state file has been stored in remote backend S3.
 
 ```
 ajain@AJAIN-LT:~/Desktop/Terraform/flask-terraform-devops-project$ terraform state list
